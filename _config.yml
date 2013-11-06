@@ -1,5 +1,4 @@
-baseurl: /
-permalink: /:year/:month/:day/:title  
-  
+permalink: /:year/:month/:title/
+url: http://www.zhaojinting.tk
 # 当修改文件时重新生成站点  
 auto: true
